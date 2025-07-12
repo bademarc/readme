@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dr-rdm&label=Profile%20Views&color=0e75b6&style=flat" alt="dr-rdm" />
+  <img src="https://komarev.com/ghpvc/?username=rdmbtc&label=Profile%20Views&color=0e75b6&style=flat" alt="dr-rdm" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ I’m Dr RDM, a passionate Web3 developer specializing in smart contracts, React
 ## 🔥 Streak Stats  
 
  <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bademarc&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rdmbtc&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 ---
 
@@ -72,10 +72,10 @@ I’m Dr RDM, a passionate Web3 developer specializing in smart contracts, React
   <summary>💻 GitHub Profile Stats</summary>  
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Dr RDM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bademarc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Dr RDM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rdmbtc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Dr RDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bademarc&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Dr RDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdmbtc&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
   <br/>
   <b>Note:</b> Top languages reflect my public code and not necessarily my full skill set.
@@ -85,7 +85,7 @@ I’m Dr RDM, a passionate Web3 developer specializing in smart contracts, React
   <summary>⚡ Recent GitHub Activity</summary>  
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Dr RDM's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bademarc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="Dr RDM's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rdmbtc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
 </details>
 
@@ -95,12 +95,12 @@ I’m Dr RDM, a passionate Web3 developer specializing in smart contracts, React
 
 <p align="center">
   <a href="https://www.youtube.com/@rdmbtc" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
-  <a href="https://github.com/dr-rdm" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://github.com/rdmbtc" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
 
 ---
 
 ## 🏆 Achievements  
-[![@dr-rdm's Holopin board](https://holopin.me/bademarc)](https://holopin.io/@bademarc)
+[![@dr-rdm's Holopin board](https://holopin.me/rdmbtc)](https://holopin.io/@rdmbtc)
 
 ---
