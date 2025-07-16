@@ -24,9 +24,7 @@ I’m Dr RDM, a passionate Web3 developer specializing in smart contracts, React
 
 ## 🔥 Streak Stats  
 
- <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rdmbtc&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rdmbtc)](https://git.io/streak-stats)
 
 ---
 
